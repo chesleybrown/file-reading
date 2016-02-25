@@ -1,2 +1,3 @@
 name: chesley
-image: file-reading/image:develop
+image: 'file-reading/image:develop'
+style: cool
