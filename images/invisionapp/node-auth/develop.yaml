@@ -1,1 +1,1 @@
-image: docker.invision.works:5000/invision/node-auth:develop-51
+image: 'docker.registry.example/invisionapp/node-activity:develop-8c38352b4b859943defe63af31fa03f853b102ec'
