@@ -2,3 +2,4 @@ name: chesleybrown
 public: 'yes'
 style: cool4
 version: '2.0'
+image: 'docker.registry.example/invisionapp/node-share:develop-8c38352b4b859943defe63af31fa03f853b102ec'
