@@ -1,0 +1,7 @@
+fromFile: ../../master/activity/activity-deployment.yaml
+spec:
+  template:
+    spec:
+      containers:
+        - name: activity-con
+          image: docker.invision.works:5000/invision/node-activity:develop-51
