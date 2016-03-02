@@ -1,2 +1,2 @@
-image: 'docker.registry.example/invision/node-auth:develop-undefined'
+image: 'docker.registry.example/invision/node-auth:develop-62b1c4e3cee584cbf000164de16e0e32cb2364d5'
 i: 'docker.registry.example/invision/node-auth:develop-7029cc2e1de3c87afb09085e8c260b4f2db42511'
