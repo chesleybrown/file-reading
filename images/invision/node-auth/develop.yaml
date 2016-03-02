@@ -1,1 +1,1 @@
-image: 'docker.registry.example/invisionapp/node-auth:develop-c8b5440eb77b3b4f794796766338776a939c7138'
+image: 'docker.registry.example/invision/node-auth:develop-c8b5440eb77b3b4f794796766338776a939c7138'
