@@ -1,1 +1,1 @@
-image: 'docker.invision.works:5000/invision/node-test:master-9ce261f04bcec09831cb966200c0c40f8130054c'
+image: 'docker.invision.works:5000/invision/node-test:master-4f69c00ae32a08753017c5332f184193c6b84751'
