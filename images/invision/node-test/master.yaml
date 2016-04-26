@@ -1,1 +1,1 @@
-image: 'docker.invision.works:5000/invision/node-test:master-70c30b1b3a1fce1e6826700c31830f47521292ad'
+image: 'testing-with-image#whatever'
